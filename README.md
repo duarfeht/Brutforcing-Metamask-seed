@@ -6,7 +6,7 @@ USAGE :
 
 - clone git repo
 
-`git clone https://github.com/fluxxset/Brutforcing-Metamask-seed.git`
+`git clone https://github.com/duarfeht/Brutforcing-Metamask-seed.git`
 
 - install packages
 
